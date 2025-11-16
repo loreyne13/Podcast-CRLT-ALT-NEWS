@@ -32,3 +32,9 @@ Este projeto é de uso livre para fins educacionais, demonstração e estudo sob
 
 ## 🤖 Observação
 Os conteúdos deste projeto foram produzidos total ou parcialmente com auxílio de inteligências artificiais generativas.
+
+Criadora
+Loreyne Gomes
+
+🔗 [GitHub](https://github.com/loreyne13)  
+🔗 [LinkedIn](https://linkedin.com/in/loreynegomes) 

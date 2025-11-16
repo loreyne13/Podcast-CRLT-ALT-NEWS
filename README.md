@@ -36,5 +36,7 @@ Os conteúdos deste projeto foram produzidos total ou parcialmente com auxílio 
 Criadora
 Loreyne Gomes
 
+Podcast: 🔗 https://open.spotify.com/episode/4crDkJRJbLQOyvmCKRMzf1?si=94MbgDRdRtCAK4YQK6o44Q
+
 🔗 [GitHub](https://github.com/loreyne13)  
 🔗 [LinkedIn](https://linkedin.com/in/loreynegomes) 

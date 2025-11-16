@@ -24,3 +24,11 @@ Com episódios curtos, de aproximadamente **5 minutos**, o objetivo é informar,
 | **Gemini** | Geração da capa e elementos visuais |
 | **ElevenLabs** | Voz narrada e efeitos sonoros |
 | **GitHub** | Hospedagem do projeto e documentação |
+
+## 📝 Licença
+Este projeto é de uso livre para fins educacionais, demonstração e estudo sobre ferramentas de IA.
+
+---
+
+## 🤖 Observação
+Os conteúdos deste projeto foram produzidos total ou parcialmente com auxílio de inteligências artificiais generativas.
